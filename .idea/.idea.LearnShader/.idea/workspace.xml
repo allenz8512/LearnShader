@@ -19,7 +19,28 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit" />
+    <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +130,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -174,7 +195,7 @@
       <workItem from="1594779792270" duration="3046000" />
       <workItem from="1594913754561" duration="1199000" />
       <workItem from="1594915117926" duration="34000" />
-      <workItem from="1594915252021" duration="236000" />
+      <workItem from="1594915252021" duration="504000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1594914665549</created>
@@ -183,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594914665549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1594915673584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594915673584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,10 +266,10 @@
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2268" y="447" key="IDE.errors.dialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594657245188" />
-    <state x="2702" y="345" key="SettingsEditor" timestamp="1594915401474">
+    <state x="2702" y="345" key="SettingsEditor" timestamp="1594915792457">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
-    <state x="2702" y="345" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915401474" />
+    <state x="2702" y="345" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915792457" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1591842640861">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>

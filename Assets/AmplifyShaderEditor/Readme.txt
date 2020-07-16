@@ -13,7 +13,7 @@ Description
 
  Amplify Shader Editor is a node-based shader creation tool inspired by industry leading
  editors. An open and tightly integrated solution, it provides a familiar and consistent
- development environment that seamlessly blends with Unity’s UI conventions and Shader use.
+ development environment that seamlessly blends with Unityï¿½s UI conventions and Shader use.
 	
 Features
 
