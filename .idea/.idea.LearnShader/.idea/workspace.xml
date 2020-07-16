@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityStandardUtils.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShadowLibrary.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityGlobalIllumination.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/Lighting.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_SamplerNode.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityLightingCommon.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexelSize.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/ColorPicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexturePropertyNode.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/Scene_5_2.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_RefractOpVec.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-DiffuseVertexLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-DiffusePixelLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-HalfLambert.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularVetexLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1clkWYj07AAGiqHfP05ih49fRH4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="" />
+      <created>1523364953010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523364953010</updated>
+      <workItem from="1523364956339" duration="3890000" />
+      <workItem from="1523631137022" duration="3287000" />
+      <workItem from="1523764356254" duration="57000" />
+      <workItem from="1523807728638" duration="97000" />
+      <workItem from="1525621163790" duration="632000" />
+      <workItem from="1527956679647" duration="63000" />
+      <workItem from="1543723061863" duration="10224000" />
+      <workItem from="1591110606441" duration="210000" />
+      <workItem from="1591110859881" duration="173000" />
+      <workItem from="1591111063661" duration="100000" />
+      <workItem from="1591111268770" duration="8284000" />
+      <workItem from="1591150820476" duration="1129000" />
+      <workItem from="1591151977609" duration="8567000" />
+      <workItem from="1591188441966" duration="4953000" />
+      <workItem from="1591238027997" duration="999000" />
+      <workItem from="1591284291723" duration="1247000" />
+      <workItem from="1591287378222" duration="1371000" />
+      <workItem from="1591797186047" duration="12695000" />
+      <workItem from="1591842093671" duration="12328000" />
+      <workItem from="1593765981615" duration="12000" />
+      <workItem from="1594205445082" duration="85000" />
+      <workItem from="1594579803571" duration="476000" />
+      <workItem from="1594580335183" duration="445000" />
+      <workItem from="1594607291526" duration="18068000" />
+      <workItem from="1594699129197" duration="3143000" />
+      <workItem from="1594779792270" duration="3046000" />
+      <workItem from="1594913754561" duration="1199000" />
+      <workItem from="1594915117926" duration="34000" />
+      <workItem from="1594915252021" duration="236000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1594914665549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594914665549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.git" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2553" y="601" key="Github.ShareDialog" timestamp="1594913832500">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2553" y="601" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594913832500" />
+    <state x="2268" y="447" key="IDE.errors.dialog" timestamp="1594657245188">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2268" y="447" key="IDE.errors.dialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594657245188" />
+    <state x="2702" y="345" key="SettingsEditor" timestamp="1594915401474">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2702" y="345" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915401474" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591842640861">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1591842640861" />
+    <state x="2280" y="437" key="Vcs.Push.Dialog.v2" timestamp="1594914764624">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2280" y="437" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914764624" />
+    <state x="2013" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594915401824">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2013" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915401824" />
+    <state x="2529" y="438" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1594914106865">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2529" y="438" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914106865" />
+    <state x="2455" y="641" key="git4idea.pull.GitPullDialog" timestamp="1594914689443">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2455" y="641" key="git4idea.pull.GitPullDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914689443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
