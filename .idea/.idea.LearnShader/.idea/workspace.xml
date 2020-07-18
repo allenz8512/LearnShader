@@ -4,42 +4,1126 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <expand />
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/BrushedMetal.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/BrushedMetal.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/CalibrationFloor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/CalibrationFloor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/RedLight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/RedLight.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/Rock.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/Rock.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/Rubber.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Materials/Rubber.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/CalibrationScaleRGB.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/CalibrationScaleRGB.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/CalibrationRGBScale.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/CalibrationRGBScale.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/Ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/Ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/Terrain.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/Terrain.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/ae5524-1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/ae5524-1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/default.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/default.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/df5524-4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Materials/df5524-4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/RoundedCube.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/RoundedCube.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Shaderball2.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/Shaderball2.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/headlow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/headlow.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/smallmountain.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/smallmountain.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/smallwater.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Models/smallwater.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/Plane.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/Plane.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/RoundedCube.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/RoundedCube.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/SceneElements.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/SceneElements.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/ShaderBall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/ShaderBall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/StencilObjects.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/StencilObjects.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/TerrainWater.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Prefabs/TerrainWater.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/FakeWindowsMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/FakeWindowsMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v1.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/FakeWindow/Fakewindow_v3.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/Grass_A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/Grass_A.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/Grass_N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/Grass_N.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/terrain_grass_01_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/terrain_grass_01_a.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/terrain_grass_01_n.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Grass/terrain_grass_01_n.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/AnisoMap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/AnisoMap.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BaseColor.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BaseColor.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BaseColorMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BaseColorMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BlueNoise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/BlueNoise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Burnt_normals.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Burnt_normals.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Checkers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Checkers.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/ColoredNumberAtlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/ColoredNumberAtlas.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Cubemap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Cubemap.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Depth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Depth.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Falloff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Falloff.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/GreenMatcapSkin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/GreenMatcapSkin.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/HighlightColor.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/HighlightColor.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Light.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/LightGrid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/LightGrid.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/NumberAtlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/NumberAtlas.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/PortalNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/PortalNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/RainbowGradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/RainbowGradient.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Scanlines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Scanlines.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/Shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SimpleFoam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SimpleFoam.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SmallWaves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SmallWaves.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SmoothNoise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/SmoothNoise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/TempNoise.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/TempNoise.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/TileableFire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/TileableFire.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/WarmToonRamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Misc/WarmToonRamp.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Rock.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Rock/rock_d.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Rock/rock_d.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Rock/rock_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Rock/rock_n.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_ao.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_ao.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_basecolor.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_basecolor.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_height.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_metallic.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_metallic.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_roughness.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Sand/Sand_roughness.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/BrushedMetalNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/BrushedMetalNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/BrushedMetalSpecular.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/BrushedMetalSpecular.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CalibrationFloorDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CalibrationFloorDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CalibrationFloorSpecularGloss.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CalibrationFloorSpecularGloss.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasSpecular.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/CanvasSpecular.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/MudNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/MudNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberSpecular.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/RubberSpecular.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinOcclusion.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/SkinOcclusion.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpHeight.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpHeight.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/TarpNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodDiffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodDiffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodNormal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodNormal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodOcclusion.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodOcclusion.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodSpecular.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodSpecular.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodTile.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/WoodTile.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/emiss_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/SceneTextures/emiss_2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_albedo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_albedo.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_specular.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Snow/snow_specular.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_A.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_A.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_H.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_H.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_M.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_M.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_N.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_O.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_R.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Assets/Textures/Tiles/Tile_R.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2Sided.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2smask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/2smask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/2Sided/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/DissolveBurn.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/burn-ramp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/burn-ramp.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/dissolve-guide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Dissolve Burn/dissolve-guide.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/EnvironmentGradient.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/MourEnvironmentGradient.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/MourEnvironmentGradient.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainExample.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainExample.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/TerrainNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Terrain_R_AO_G_Edges.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/EnvironmentGradient/Terrain_R_AO_G_Edges.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/Bullet.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/Bullet.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShield.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldDestroyBall.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldDestroyBall.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldImpactDetection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldImpactDetection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldPattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldPattern.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldShootBall.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldShootBall.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldWaves.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/ForceShield/ForceShieldWaves.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/Highlight_Animated.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/highlightAnimated.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HighlightAnimated/highlightAnimated.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/HoloNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/HoloNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram Simple.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram Simple.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram Simple.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram Simple.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/HologramSimple/Hologram.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/LowPolyWater.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/foam-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/foam-001.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/foam-distortion-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/foam-distortion-001.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/wave-pattern-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/LowPolyWater/wave-pattern-001.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Melting/Melting.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Masked.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/Masked.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/MaskingFunction.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/MaskingFunction.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/RedChannelMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/RedChannelMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/SingleChannelMasking/SingleChannelMasking.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Demo.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Demo/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Demo/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - FirTree.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - FirTree.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - FirTreeVariation.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - FirTreeVariation.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Grass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Grass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Rock.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Rock.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Terrain.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Terrain.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - TreeTrunk.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - TreeTrunk.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Wood.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/LowPoly - Wood.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Materials/Skybox Cubemap Extended.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Fence A.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Fence A.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Fence B.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Fence B.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - FirTree A.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - FirTree A.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - FirTree B.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - FirTree B.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Grass A.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Grass A.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Grass B.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Grass B.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Rock A.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Rock A.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Rock B.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Rock B.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Terrain.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/LowPoly - Terrain.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/Materials/01 - Default.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Meshes/Materials/01 - Default.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Fence A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Fence A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Fence B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Fence B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - FirTree B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Grass A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Grass A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Grass B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Grass B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Rock A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Rock A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Rock B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Prefabs/LowPoly - Rock B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Shaders/Skybox Cubemap Extended.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Shaders/Skybox Cubemap Extended.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Textures/Polyverse Skies - Blue Sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Community/Skybox Cubemap Extended/Textures/Polyverse Skies - Blue Sky.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HD SRP Samples.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LW SRP Samples.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/AnimatedFire-ShaderFunction.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/Burn Effect.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire-ShaderFunction/Burn Effect.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedFire/AnimatedFire.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/AnimatedUVDistortion/AnimatedUVDistortion.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/Burn.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/Burn.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Burn/BurnEffect.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CubemapReflections/CubemapReflections.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomLightingToon/CustomLightingToon.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToon.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToon.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToon.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToon.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomOutlineToon/CustomOutlineToonStyle2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomRTRain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomRTRain/Custom RT Samples.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomRTRain/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomRTRain/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFade.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Dithering/DitheringFadeBlueNoise.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/CoatNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/CoatNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCarShaders.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCarShaders.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/DoubleLayerCustomSurface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/Flakes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/Flakes.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/FlakesNormal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/DoubleLayerCustomSurface/FlakesNormal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Extrusion/NormalExtrusion.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/Matcap.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/Matcap.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/Matcap.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/Matcap.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/MatcapSample.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Matcap/MatcapSample.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/DoublePassUnlitTemplate.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/DoublePassUnlitTemplate.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/Mat00.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/Mat00.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/Mat01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/Mat01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/MultiPassDistortion.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ObjectNormalRefraction.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ObjectNormalRefraction/ShaderBallInterior.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/Logo_LowResolution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/Logo_LowResolution.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/OrientationBasedSprite/OrientationBasedSprite.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Outline/Outline.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxMapping/ParallaxMappingIterations.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOcclusionMappingPOM/SandPOM.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/FakeWindow.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/FakeWindow.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ParallaxOffsetFakeInterior/ParallaxWindow.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutOff.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutOff.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutOff.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutOff.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutoff.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/LocalPosCutoff.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/WorldPosCutOff 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/WorldPosCutOff 2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/WorldPosCutOff.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/PositionCutoff/WorldPosCutOff.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorLight.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/ProjectorShadow.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/Projectors.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Projectors/Projectors.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/RadialUVDistortion.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/SquareGradient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RadialUVDistortion/SquareGradient.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ImprovedReadFromAtlasTiled.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ImprovedReadFromAtlasTiled.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ImprovedReadFromAtlasTiled.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ImprovedReadFromAtlasTiled.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReadFromAtlasTiled/ReadFromAtlasTiled.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ReflectRefractSoapBubble/ReflectRefractSoapBubble.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RefractedShadows/RefractedShadows.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/RimLight/RimLight.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceCurvature/ScreenSpaceCurvature.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/ScreenSpaceDetail/ScreenSpaceDetail.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleBlur/SimpleBlur.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/ShaderBall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/ShaderBall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancing.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancingExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleGPUInstancing/SimpleGPUInstancingExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleLambert/SimpleLambert.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleNoise/SimpleNoise.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/Glass.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/Glass.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/Glass.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/Glass.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimpleGlass.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimplePotionLiquid/SimplePotionLiquid.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleRefraction/SimpleRefraction.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainAddPass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainAddPass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainAddPass.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainAddPass.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainBase.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainBase.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainBase.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainBase.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainFirstPass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainFirstPass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainFirstPass.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainFirstPass.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainWater.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleTerrainWater.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleWater.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTerrain/SimpleWater.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SimpleTexture/SimpleTexture.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/SimpleMoveExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/SimpleMoveExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Smear/Smear.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/SnowAccum/SnowAccum.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilDiffuse01.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal01/StencilMask01.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilDiffuse02.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal02/StencilMask02.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilDiffuse03.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portal03/StencilMask03.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portals.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/Portals.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/StencilObjects.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Portals/StencilObjects.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefraction.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefraction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionBlue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionBlue.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionGreen.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionGreen.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionRed.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionRed.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionWhite.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/RefractionsPanels/AnimatedRefractionWhite.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/StencilExample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/StencilExample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Walls.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/StencilExample/Walls.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance/LegacySubstanceExample.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance2018.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance2018/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance2018/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance2018/Substance2018.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Particles/HeatHaze/ParticlesTest.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/FilmGrain/FilmGrain.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Credits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Credits.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/PostProcessExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/Sobel.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/SobelIntensity.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/SobelIntensity.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/SobelMain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/PostProcess/Sobel/SobelMain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SimpleSprite/SimpleSprite.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/CubeMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/CubeMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SphereMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SphereMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteExampleAtlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteExampleAtlas.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteMaskController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpriteMaskController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMask.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMask.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMask.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMask.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskCube.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskCube.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskSphere.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/Sprites/SpriteMask/SpritesMaskSphere.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/ASEIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/ASEIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/CoolWave.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/CoolWave.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/LogoMask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/LogoMask.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/MaskedUI/MaskedUI.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TemplateExamples/UI/SimpleUI/SimpleUI.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/Splatmap_Source.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/Splatmap_Source.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainBase.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageFirstPass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageFirstPass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageFirstPass.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageFirstPass.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageSample.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageSample.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainSnowCoverageSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainWaterSample.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/TerrainWaterSample.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/color.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/terrain.raw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TerrainSnowCoverage/terrain.raw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Tessellation/Tessellation.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/TextureArray.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/WoodTextureArrayAlbedo.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/WoodTextureArrayAlbedo.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/WoodTextureArrayNormal.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TextureArray/WoodTextureArrayNormal.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Translucency/Translucency.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transmission/Transmission.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Transparency/Transparency.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TriplanarProjection/TriplanarProjection.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/TwoSidedWithFace/TwoSideWithFace.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/FlowLine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/FlowLine.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/GlintRamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/GlintRamp.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/RingTex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/RingTex.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/TwirlFlow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/TwirlFlow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX 3.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UISpriteFX/UISpriteFX.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UV light.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UV light.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UV light.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UV light.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UVLight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UVLight.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UVLightReveal.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/UVLightReveal/UVLightReveal.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/VertexNormalReconstruction.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/Waving Vertex.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/VertexNormalReconstruction/Waving Vertex.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/Ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/Ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/Ground.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/Ground.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Water/WaterSample.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/WorldPosSLices/WorldPosSlices.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/ProceduralWall.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/XRay/XRay.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Editor/RenderCubemapWizard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Editor/RenderCubemapWizard.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Reflection.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Teapot.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/Teapot.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negx.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/negz.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posx.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter10/posz.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/Scene9.4.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/Scene9.4.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/Shadow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/Shadow.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/ShadowMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Chapter9/ShadowMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModel.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModel.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/LightModel/LightModelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N35958dd7185cb88.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_N35958dd7185cb88.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_Ncc0f254a2c535401.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_AGrass_Ncc0f254a2c535401.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normalb05780438ad4031.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normalb05780438ad4031.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normalcc0f254a2c535401.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_basecolorSand_normalcc0f254a2c535401.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_rock_drock_n3d1cca0d6d0e9938.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_rock_drock_n3d1cca0d6d0e9938.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_rock_drock_nc907d37aeaae1eef.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_rock_drock_nc907d37aeaae1eef.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_snow_albedosnow_normalb05780438ad4031.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_snow_albedosnow_normalb05780438ad4031.terrainlayer.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Built-In Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Credits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Credits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Credits.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Credits.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/DownloadSamplesInstructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/DownloadSamplesInstructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/DownloadSamplesInstructions.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/DownloadSamplesInstructions.txt.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HDRP Samples (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HDRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LWRP Samples (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LWRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Sample Resources.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/URP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Simple HUE.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/Simple HUE.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SphereMask.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SphereMask.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SphereMask.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/ShaderFunctions/SphereMask.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/CustomRTTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/HDSRPTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/LWSRPTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/PPStackTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 3xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 4xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 572 (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 5xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 6xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/LWSRPTemplates 3xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/LWSRPTemplates 4xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/USRPTemplates.unitypackage.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter9/Scene9.2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter9/Scene9.2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,38 +1134,49 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityStandardUtils.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShadowLibrary.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityGlobalIllumination.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/Lighting.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_SamplerNode.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityLightingCommon.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexelSize.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/ColorPicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexturePropertyNode.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter5/Scene_5_2.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/MultiPassDistortion/DoublePassUnlitTemplate.shader" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_RefractOpVec.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.4.4f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexturePropertyNode.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LightModel/LightModel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OneDrive/Book/unity/Unity_Shaders_Book-master/Assets/Shaders/Chapter9/Chapter9-Shadow.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OneDrive/Book/unity/Unity_Shaders_Book-master/Assets/Shaders/Chapter10/Chapter10-Reflection.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/Legacy/MultiPassUnlit.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/Legacy/Unlit.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TextureTransform.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.4.4f1/Editor/Data/CGIncludes/Lighting.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/Shadow.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering2.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Coding/Unity/2019.4.4f1/Editor/Data/CGIncludes/AutoLight.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Packages/packages-lock.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OneDrive/Book/unity/Unity_Shaders_Book-master/Assets/Shaders/Chapter9/Chapter9-ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/Legacy/Particle Alpha Blend.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter10/Editor/RenderCubemapWizard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OneDrive/Book/unity/Unity_Shaders_Book-master/Assets/Editor/Chapter10/RenderCubemapWizard.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_SamplerNode.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexelSize.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter10/Reflection.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_RefractOpVec.shader" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/ColorPicker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,13 +1195,17 @@
         <option value="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" />
         <option value="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" />
         <option value="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" />
         <option value="$PROJECT_DIR$/.gitattributes" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Chapter10/Editor/RenderCubemapWizard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter9/Shadow.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" />
+        <option value="$PROJECT_DIR$/Assets/Chapter10/Reflection.shader" />
       </list>
     </option>
   </component>
@@ -117,20 +1216,23 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1clkWYj07AAGiqHfP05ih49fRH4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -196,6 +1298,20 @@
       <workItem from="1594913754561" duration="1199000" />
       <workItem from="1594915117926" duration="34000" />
       <workItem from="1594915252021" duration="504000" />
+      <workItem from="1594917913908" duration="79000" />
+      <workItem from="1594918020144" duration="443000" />
+      <workItem from="1594953316591" duration="248000" />
+      <workItem from="1594953581271" duration="16000" />
+      <workItem from="1594953614536" duration="603000" />
+      <workItem from="1594960772586" duration="712000" />
+      <workItem from="1594978335933" duration="1159000" />
+      <workItem from="1594981171982" duration="3240000" />
+      <workItem from="1594988578963" duration="7430000" />
+      <workItem from="1594999373507" duration="120000" />
+      <workItem from="1594999522728" duration="210000" />
+      <workItem from="1594999756959" duration="18000" />
+      <workItem from="1594999813638" duration="5224000" />
+      <workItem from="1595034959373" duration="9426000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1594914665549</created>
@@ -249,6 +1365,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/.git" />
@@ -258,26 +1375,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="703" y="362" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1594918156574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="362" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1594918156574" />
     <state x="2553" y="601" key="Github.ShareDialog" timestamp="1594913832500">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2553" y="601" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594913832500" />
-    <state x="2268" y="447" key="IDE.errors.dialog" timestamp="1594657245188">
-      <screen x="1920" y="0" width="2560" height="1400" />
+    <state x="261" y="332" key="IDE.errors.dialog" timestamp="1594999687554">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2268" y="447" key="IDE.errors.dialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594657245188" />
-    <state x="2702" y="345" key="SettingsEditor" timestamp="1594915792457">
-      <screen x="1920" y="0" width="2560" height="1400" />
+    <state x="261" y="332" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594999687554" />
+    <state x="587" y="256" key="SettingsEditor" timestamp="1594953595361">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="2702" y="345" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915792457" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1591842640861">
-      <screen x="1920" y="0" width="2560" height="1400" />
+    <state x="587" y="256" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594953595361" />
+    <state width="498" height="414" key="SwitcherDM" timestamp="1595062993812">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1591842640861" />
+    <state width="498" height="414" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1595062993812" />
     <state x="2280" y="437" key="Vcs.Push.Dialog.v2" timestamp="1594914764624">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>
     <state x="2280" y="437" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914764624" />
+    <state x="716" y="364" key="cloudConfig.PluginsDialog" timestamp="1594953556931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="364" key="cloudConfig.PluginsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594953556931" />
     <state x="2013" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594915401824">
       <screen x="1920" y="0" width="2560" height="1400" />
     </state>

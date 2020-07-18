@@ -1,6 +1,6 @@
 // Made with Amplify Shader Editor
 // Available at the Unity Asset Store - http://u3d.as/y3X 
-Shader "Unity Shader Book/Chapter 7/Mask Texture 2"
+Shader "Unity Shaders Book/Chapter 7/Mask Texture 2"
 {
 	Properties
 	{

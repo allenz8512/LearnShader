@@ -1,4 +1,4 @@
-﻿Shader "Unity Shader Book/Chapter 7/Mask Texture"
+﻿Shader "Unity Shaders Book/Chapter 7/Mask Texture"
 {
     Properties
     {
