@@ -20,26 +20,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/ConsoleProDebug.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/ConsoleProDebug.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor Console Pro Documentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor Console Pro Documentation.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor/ConsolePro.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor/ConsolePro.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/ConsoleProRemoteServer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/ConsoleProRemoteServer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/INetEventListener.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/INetEventListener.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetConstants.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetConstants.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataReader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataReader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDebug.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDebug.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacket.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacket.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSerializer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSerializer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSocket.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSocket.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetThread.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetThread.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetUtils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetUtils.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/RemoteFix" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/RemoteFix.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,65 +96,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityStandardUtils.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShadowLibrary.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityGlobalIllumination.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/Lighting.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_SamplerNode.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityLightingCommon.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Coding/Unity/2019.3.15f1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexelSize.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/ColorPicker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexturePropertyNode.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter5/Scene_5_2.unity" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_RefractOpVec.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/ColorPicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/DiffusePixelLevel.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_RefractOpVec.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter6/HalfLambert.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_SamplerNode.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Previews/Preview_TexelSize.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Chapter7/MaskTexture2.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Assets/Chapter5/SimpleShader.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-DiffuseVertexLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-DiffusePixelLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/Chapter6-HalfLambert.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularVetexLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/DiffuseVertexLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularVertexLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/BlinnPhong.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter6/SpecularPixelLevel.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/SingleTexture.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/NormalMapTangentSpace.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/NormalMapWorldSpace.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/RampTexture.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter5/FalseColor.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter7/MaskTextrue.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlendZWrite.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaBlend.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter8/AlphaTest.shader" />
-        <option value="$PROJECT_DIR$/Assets/Chapter9/ForwardRendering.shader" />
-        <option value="$PROJECT_DIR$/.gitattributes" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -117,20 +134,25 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1clkWYj07AAGiqHfP05ih49fRH4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -138,7 +160,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -147,7 +169,7 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -195,7 +217,10 @@
       <workItem from="1594779792270" duration="3046000" />
       <workItem from="1594913754561" duration="1199000" />
       <workItem from="1594915117926" duration="34000" />
-      <workItem from="1594915252021" duration="504000" />
+      <workItem from="1594915252021" duration="787000" />
+      <workItem from="1594916470564" duration="15000" />
+      <workItem from="1608643856850" duration="62000" />
+      <workItem from="1608648585649" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1594914665549</created>
@@ -211,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594915673584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1594915825969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594915825969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +281,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/.git" />
@@ -256,40 +289,6 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2553" y="601" key="Github.ShareDialog" timestamp="1594913832500">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2553" y="601" key="Github.ShareDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594913832500" />
-    <state x="2268" y="447" key="IDE.errors.dialog" timestamp="1594657245188">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2268" y="447" key="IDE.errors.dialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594657245188" />
-    <state x="2702" y="345" key="SettingsEditor" timestamp="1594915792457">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2702" y="345" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915792457" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1591842640861">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1591842640861" />
-    <state x="2280" y="437" key="Vcs.Push.Dialog.v2" timestamp="1594914764624">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2280" y="437" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914764624" />
-    <state x="2013" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594915401824">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2013" y="93" width="2375" height="1215" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594915401824" />
-    <state x="2529" y="438" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1594914106865">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2529" y="438" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914106865" />
-    <state x="2455" y="641" key="git4idea.pull.GitPullDialog" timestamp="1594914689443">
-      <screen x="1920" y="0" width="2560" height="1400" />
-    </state>
-    <state x="2455" y="641" key="git4idea.pull.GitPullDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1594914689443" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
