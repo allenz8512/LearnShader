@@ -1067,9 +1067,6 @@
           <e p="ForwardRendering2.shader" t="Include" />
           <e p="Shadow.shader" t="Include" />
         </e>
-        <e p="LightModel" t="Include">
-          <e p="LightModel.shader" t="Include" />
-        </e>
         <e p="ConsolePro" t="Include">
           <e p="ConsoleProDebug.cs" t="Include" />
           <e p="Remote" t="Include">
@@ -1098,6 +1095,9 @@
               <e p="SimpleChannel.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="LightModel" t="Include">
+          <e p="LightModel.shader" t="Include" />
         </e>
       </e>
       <e p="LearnShader.sln" t="IncludeFlat" />

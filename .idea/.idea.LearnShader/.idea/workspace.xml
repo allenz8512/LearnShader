@@ -19,74 +19,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/ConsoleProDebug.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/ConsoleProDebug.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor Console Pro Documentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor Console Pro Documentation.pdf.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor/ConsolePro.Editor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Editor/ConsolePro.Editor.dll.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/ConsoleProRemoteServer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/ConsoleProRemoteServer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/FastBitConverter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/INetEventListener.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/INetEventListener.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NatPunchModule.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetConstants.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetConstants.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataReader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataReader.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDataWriter.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDebug.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetDebug.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetEndPoint.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacket.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacket.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPacketPool.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetPeerCollection.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSerializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSerializer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSocket.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetSocket.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetThread.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetThread.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NetUtils.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/NtpSyncModule.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/ReliableChannel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/RemoteFix" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/RemoteFix.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SequencedChannel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/ConsolePro/Remote/LiteNetLib/SimpleChannel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LearnShader/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    <list default="true" id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HD SRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LW SRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/CustomRTRain/Custom RT Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance/LegacySubstanceExample.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Official/Substance2018/Substance2018.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chapter10/posx.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Chapter10/posx.jpg.meta" afterDir="false" />
     </list>
+    <list id="9e4605af-7c21-488c-80f2-880813a9482e" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +35,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.vscode/settings.json" root0="FORCE_HIGHLIGHTING" />
@@ -185,6 +127,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="27adfee1-79f0-41c8-be38-8bf706a54ccf" name="Default" comment="" />
+      <changelist id="9e4605af-7c21-488c-80f2-880813a9482e" name="New changelist" comment="" />
       <created>1523364953010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -220,7 +163,7 @@
       <workItem from="1594915252021" duration="787000" />
       <workItem from="1594916470564" duration="15000" />
       <workItem from="1608643856850" duration="62000" />
-      <workItem from="1608648585649" duration="746000" />
+      <workItem from="1608648585649" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1594914665549</created>
@@ -243,7 +186,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594915825969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update .gitignore">
+      <created>1608649433282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608649433282</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update .gitignore">
+      <created>1608649499732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608649499732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1608649561022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608649561022</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +252,9 @@
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="update .gitignore" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
