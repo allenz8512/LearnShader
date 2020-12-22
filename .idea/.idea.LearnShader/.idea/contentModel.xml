@@ -5,6 +5,7 @@
     <e p="C:\Users\zjlme\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_LearnShader.-922447940.00" t="ExcludeRecursive" />
     <e p="E:\UnityProjects\LearnShader" t="IncludeRecursive">
       <e p="AmplifyShaderEditor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="AmplifyShaderEditor" t="Include">
@@ -12,8 +13,290 @@
           <e p="ChangeLog.txt" t="Include" />
           <e p="CreatingTerrainsWithASE.txt" t="Include" />
           <e p="Examples" t="Include">
+            <e p="Community" t="Include">
+              <e p="2Sided" t="Include">
+                <e p="2Sided.shader" t="Include" />
+                <e p="Credits.txt" t="Include" />
+              </e>
+              <e p="Dissolve Burn" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="DissolveBurn.shader" t="Include" />
+              </e>
+              <e p="EnvironmentGradient" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="MourEnvironmentGradient.shader" t="Include" />
+              </e>
+              <e p="ForceShield" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="ForceShield.shader" t="Include" />
+                <e p="ForceShieldDestroyBall.cs" t="Include" />
+                <e p="ForceShieldImpactDetection.cs" t="Include" />
+                <e p="ForceShieldShootBall.cs" t="Include" />
+              </e>
+              <e p="HighlightAnimated" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="Highlight_Animated.shader" t="Include" />
+                <e p="highlightAnimated.cs" t="Include" />
+              </e>
+              <e p="HologramSimple" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="Hologram Simple.shader" t="Include" />
+              </e>
+              <e p="LowPolyWater" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="LowPolyWater.shader" t="Include" />
+              </e>
+              <e p="Melting" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="Melting.shader" t="Include" />
+              </e>
+              <e p="SingleChannelMasking" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="SingleChannelMasking.shader" t="Include" />
+              </e>
+              <e p="Skybox Cubemap Extended" t="Include">
+                <e p="Credits.txt" t="Include" />
+                <e p="Shaders" t="Include">
+                  <e p="Skybox Cubemap Extended.shader" t="Include" />
+                </e>
+              </e>
+            </e>
             <e p="Credits.txt" t="Include" />
             <e p="DownloadSamplesInstructions.txt" t="Include" />
+            <e p="Official" t="Include">
+              <e p="AnimatedFire" t="Include">
+                <e p="AnimatedFire.shader" t="Include" />
+              </e>
+              <e p="AnimatedFire-ShaderFunction" t="Include">
+                <e p="AnimatedFire-ShaderFunction.shader" t="Include" />
+              </e>
+              <e p="AnimatedUVDistortion" t="Include">
+                <e p="AnimatedUVDistortion.shader" t="Include" />
+              </e>
+              <e p="Burn" t="Include">
+                <e p="BurnEffect.shader" t="Include" />
+              </e>
+              <e p="CubemapReflections" t="Include">
+                <e p="CubemapReflections.shader" t="Include" />
+              </e>
+              <e p="CustomLightingToon" t="Include">
+                <e p="CustomLightingToon.shader" t="Include" />
+              </e>
+              <e p="CustomOutlineToon" t="Include">
+                <e p="CustomOutlineToon.shader" t="Include" />
+              </e>
+              <e p="CustomRTRain" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+              <e p="Dithering" t="Include">
+                <e p="DitheringFade.shader" t="Include" />
+                <e p="DitheringFadeBlueNoise.shader" t="Include" />
+              </e>
+              <e p="DoubleLayerCustomSurface" t="Include">
+                <e p="DoubleLayerCustomSurface.shader" t="Include" />
+              </e>
+              <e p="Extrusion" t="Include">
+                <e p="NormalExtrusion.shader" t="Include" />
+              </e>
+              <e p="Matcap" t="Include">
+                <e p="MatcapSample.shader" t="Include" />
+              </e>
+              <e p="MultiPassDistortion" t="Include">
+                <e p="DoublePassUnlitTemplate.shader" t="Include" />
+                <e p="MultiPassDistortion.shader" t="Include" />
+              </e>
+              <e p="ObjectNormalRefraction" t="Include">
+                <e p="ObjectNormalRefraction.shader" t="Include" />
+                <e p="ShaderBallInterior.shader" t="Include" />
+              </e>
+              <e p="OrientationBasedSprite" t="Include">
+                <e p="OrientationBasedSprite.shader" t="Include" />
+              </e>
+              <e p="Outline" t="Include">
+                <e p="Outline.shader" t="Include" />
+              </e>
+              <e p="ParallaxMapping" t="Include">
+                <e p="ParallaxMappingIterations.shader" t="Include" />
+              </e>
+              <e p="ParallaxOcclusionMappingPOM" t="Include">
+                <e p="SandPOM.shader" t="Include" />
+              </e>
+              <e p="ParallaxOffsetFakeInterior" t="Include">
+                <e p="ParallaxWindow.shader" t="Include" />
+              </e>
+              <e p="PositionCutoff" t="Include">
+                <e p="LocalPosCutoff.shader" t="Include" />
+              </e>
+              <e p="Projectors" t="Include">
+                <e p="ProjectorLight.shader" t="Include" />
+                <e p="ProjectorShadow.shader" t="Include" />
+              </e>
+              <e p="RadialUVDistortion" t="Include">
+                <e p="RadialUVDistortion.shader" t="Include" />
+              </e>
+              <e p="ReadFromAtlasTiled" t="Include">
+                <e p="ImprovedReadFromAtlasTiled.shader" t="Include" />
+                <e p="ReadFromAtlasTiled.shader" t="Include" />
+              </e>
+              <e p="ReflectRefractSoapBubble" t="Include">
+                <e p="ReflectRefractSoapBubble.shader" t="Include" />
+              </e>
+              <e p="RefractedShadows" t="Include">
+                <e p="RefractedShadows.shader" t="Include" />
+              </e>
+              <e p="RimLight" t="Include">
+                <e p="RimLight.shader" t="Include" />
+              </e>
+              <e p="ScreenSpaceCurvature" t="Include">
+                <e p="ScreenSpaceCurvature.shader" t="Include" />
+              </e>
+              <e p="ScreenSpaceDetail" t="Include">
+                <e p="ScreenSpaceDetail.shader" t="Include" />
+              </e>
+              <e p="SimpleBlur" t="Include">
+                <e p="SimpleBlur.shader" t="Include" />
+              </e>
+              <e p="SimpleGPUInstancing" t="Include">
+                <e p="SimpleGPUInstancing.shader" t="Include" />
+                <e p="SimpleGPUInstancingExample.cs" t="Include" />
+              </e>
+              <e p="SimpleLambert" t="Include">
+                <e p="SimpleLambert.shader" t="Include" />
+              </e>
+              <e p="SimpleNoise" t="Include">
+                <e p="SimpleNoise.shader" t="Include" />
+              </e>
+              <e p="SimplePotionLiquid" t="Include">
+                <e p="SimpleGlass.shader" t="Include" />
+                <e p="SimplePotionLiquid.shader" t="Include" />
+              </e>
+              <e p="SimpleRefraction" t="Include">
+                <e p="SimpleRefraction.shader" t="Include" />
+              </e>
+              <e p="SimpleTerrain" t="Include">
+                <e p="SimpleTerrainAddPass.shader" t="Include" />
+                <e p="SimpleTerrainBase.shader" t="Include" />
+                <e p="SimpleTerrainFirstPass.shader" t="Include" />
+                <e p="SimpleWater.shader" t="Include" />
+              </e>
+              <e p="SimpleTexture" t="Include">
+                <e p="SimpleTexture.shader" t="Include" />
+              </e>
+              <e p="Smear" t="Include">
+                <e p="SimpleMoveExample.cs" t="Include" />
+                <e p="Smear.cs" t="Include" />
+                <e p="Smear.shader" t="Include" />
+              </e>
+              <e p="SnowAccum" t="Include">
+                <e p="SnowAccum.shader" t="Include" />
+              </e>
+              <e p="StencilExample" t="Include">
+                <e p="Portals" t="Include">
+                  <e p="Portal01" t="Include">
+                    <e p="StencilDiffuse01.shader" t="Include" />
+                    <e p="StencilMask01.shader" t="Include" />
+                  </e>
+                  <e p="Portal02" t="Include">
+                    <e p="StencilDiffuse02.shader" t="Include" />
+                    <e p="StencilMask02.shader" t="Include" />
+                  </e>
+                  <e p="Portal03" t="Include">
+                    <e p="StencilDiffuse03.shader" t="Include" />
+                    <e p="StencilMask03.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="RefractionsPanels" t="Include">
+                  <e p="AnimatedRefraction.shader" t="Include" />
+                </e>
+              </e>
+              <e p="Substance" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+              <e p="Substance2018" t="Include">
+                <e p="README.txt" t="Include" />
+              </e>
+              <e p="TemplateExamples" t="Include">
+                <e p="Particles" t="Include">
+                  <e p="HeatHaze" t="Include">
+                    <e p="ParticlesTest.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="PostProcess" t="Include">
+                  <e p="FilmGrain" t="Include">
+                    <e p="Credits.txt" t="Include" />
+                    <e p="FilmGrain.shader" t="Include" />
+                  </e>
+                  <e p="Sobel" t="Include">
+                    <e p="Credits.txt" t="Include" />
+                    <e p="PostProcessExample.cs" t="Include" />
+                    <e p="Sobel.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Sprites" t="Include">
+                  <e p="SimpleSprite" t="Include">
+                    <e p="SimpleSprite.shader" t="Include" />
+                  </e>
+                  <e p="SpriteMask" t="Include">
+                    <e p="SpriteMaskController.cs" t="Include" />
+                    <e p="SpritesMask.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="UI" t="Include">
+                  <e p="MaskedUI" t="Include">
+                    <e p="MaskedUI.shader" t="Include" />
+                  </e>
+                  <e p="SimpleUI" t="Include">
+                    <e p="SimpleUI.shader" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="TerrainSnowCoverage" t="Include">
+                <e p="TerrainBase.shader" t="Include" />
+                <e p="TerrainSnowCoverageFirstPass.shader" t="Include" />
+              </e>
+              <e p="Tessellation" t="Include">
+                <e p="Tessellation.shader" t="Include" />
+              </e>
+              <e p="TextureArray" t="Include">
+                <e p="TextureArray.shader" t="Include" />
+              </e>
+              <e p="Translucency" t="Include">
+                <e p="Translucency.shader" t="Include" />
+              </e>
+              <e p="Transmission" t="Include">
+                <e p="Transmission.shader" t="Include" />
+              </e>
+              <e p="Transparency" t="Include">
+                <e p="Transparency.shader" t="Include" />
+              </e>
+              <e p="TriplanarProjection" t="Include">
+                <e p="TriplanarProjection.shader" t="Include" />
+              </e>
+              <e p="TwoSidedWithFace" t="Include">
+                <e p="TwoSideWithFace.shader" t="Include" />
+              </e>
+              <e p="UISpriteFX" t="Include">
+                <e p="UISpriteFX 3.shader" t="Include" />
+                <e p="UISpriteFX.shader" t="Include" />
+              </e>
+              <e p="UVLightReveal" t="Include">
+                <e p="UV light.shader" t="Include" />
+              </e>
+              <e p="VertexNormalReconstruction" t="Include">
+                <e p="VertexNormalReconstruction.shader" t="Include" />
+              </e>
+              <e p="Water" t="Include">
+                <e p="Ground.shader" t="Include" />
+                <e p="WaterSample.shader" t="Include" />
+              </e>
+              <e p="WorldPosSLices" t="Include">
+                <e p="WorldPosSlices.shader" t="Include" />
+              </e>
+              <e p="XRay" t="Include">
+                <e p="ProceduralWall.shader" t="Include" />
+                <e p="XRay.shader" t="Include" />
+              </e>
+            </e>
             <e p="README Samples.txt" t="Include" />
           </e>
           <e p="Plugins" t="Include">
@@ -745,6 +1028,14 @@
           </e>
           <e p="README.txt" t="Include" />
         </e>
+        <e p="Chapter10" t="Include">
+          <e p="Editor" t="Include">
+            <e p="RenderCubemapWizard.cs" t="Include" />
+          </e>
+          <e p="Fresnel.shader" t="Include" />
+          <e p="Reflection.shader" t="Include" />
+          <e p="Refraction.shader" t="Include" />
+        </e>
         <e p="Chapter5" t="Include">
           <e p="ColorPicker.cs" t="Include" />
           <e p="FalseColor.shader" t="Include" />
@@ -773,6 +1064,11 @@
         </e>
         <e p="Chapter9" t="Include">
           <e p="ForwardRendering.shader" t="Include" />
+          <e p="ForwardRendering2.shader" t="Include" />
+          <e p="Shadow.shader" t="Include" />
+        </e>
+        <e p="LightModel" t="Include">
+          <e p="LightModel.shader" t="Include" />
         </e>
         <e p="ConsolePro" t="Include">
           <e p="ConsoleProDebug.cs" t="Include" />

@@ -1,4 +1,4 @@
-﻿Shader "Unity Shader Book/Chapter 8/Alpha Test"
+﻿Shader "Unity Shaders Book/Chapter 8/Alpha Test"
 {
     Properties
     {

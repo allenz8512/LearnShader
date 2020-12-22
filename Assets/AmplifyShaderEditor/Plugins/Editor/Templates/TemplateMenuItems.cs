@@ -46,5 +46,10 @@ namespace AmplifyShaderEditor
 		{
 			AmplifyShaderEditorWindow.CreateConfirmationTemplateShader( "e1de45c0d41f68c41b2cc20c8b9c05ef" );
 		}
+		[MenuItem( "Assets/Create/Amplify Shader/ASESampleTemplates/DoublePassUnlit", false, 85 )]
+		public static void ApplyTemplateASESampleTemplatesDoublePassUnlit()
+		{
+			AmplifyShaderEditorWindow.CreateConfirmationTemplateShader( "003dfa9c16768d048b74f75c088119d8" );
+		}
 	}
 }

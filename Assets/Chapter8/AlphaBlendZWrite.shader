@@ -1,4 +1,4 @@
-﻿Shader "Unity Shader Book/Chapter 8/Alpha Blend Zwrite"
+﻿Shader "Unity Shaders Book/Chapter 8/Alpha Blend Zwrite"
 {
     Properties
     {
